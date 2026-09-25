@@ -1,5 +1,12 @@
 # @cloudflare/autoconfig
 
+## 0.6.7
+
+### Patch Changes
+
+- Updated dependencies [[`77e79b2`](https://github.com/cloudflare/workers-sdk/commit/77e79b2f5f1fa6a8f8ec2b04f8b288edac64bf9f)]:
+  - @cloudflare/config@0.19.1
+
 ## 0.6.6
 
 ### Patch Changes
